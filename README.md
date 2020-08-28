@@ -1,4 +1,4 @@
-# Rohschinken Games Utility #
+# Rohschinken Games Utilities #
 
 extension methods, random class and utility scripts
 
